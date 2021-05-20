@@ -1,0 +1,11 @@
+{
+  "name": "repo-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:bh247484/actions-repo-2.git",
+  "author": "Brendan Huffman <bh247484@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "playbook-ui": "9.14.1"
+  }
+}
