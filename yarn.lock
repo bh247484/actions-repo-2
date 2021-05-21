@@ -5600,10 +5600,10 @@ pkg-dir@^4.1.0:
   dependencies:
     find-up "^4.0.0"
 
-playbook-ui@9.14.1:
-  version "9.14.1"
-  resolved "https://registry.yarnpkg.com/playbook-ui/-/playbook-ui-9.14.1.tgz#2173c7902c00180f114cbd7c9d3a3576ae476d05"
-  integrity sha512-I2Ol7fXNW2uBX5MIaeugOlfIYaldUmwW44jgZEuuIAkWVVVNX6jZU64C+8fhVg/SHJ2ZwipRUFS0Y1UXwb1tbQ==
+playbook-ui@9.15.0:
+  version "9.15.0"
+  resolved "https://registry.yarnpkg.com/playbook-ui/-/playbook-ui-9.15.0.tgz#b25122f013078b22d246475ad5aa3d987b39f601"
+  integrity sha512-nSnNrldP6Zp2VNxO99R5e1p2D8DcU8Po3gwN1wUmOp9Jh7TCg9+5GCJmUdHfh4WgmQ/kxsM3brJ+SRmKlY+eoA==
   dependencies:
     "@babel/cli" "^7.12.1"
     "@babel/core" "^7.12.3"
