@@ -6,6 +6,6 @@
   "author": "Brendan Huffman <bh247484@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "playbook-ui": "9.14.1"
+    "playbook-ui": "9.15.0"
   }
 }
